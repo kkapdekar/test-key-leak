@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kkap-scc-demo",
+  "private_key_id": "08bf1fd1aa4bbaad780bd91afc98533a53fc3cbb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFhWSjuYLxp6uo\nX8ktn0jFRjxgpgpImkj2KKumatcbF8c/mGA5ipUH3/AW5bNweQiNF20F2BuZI/zp\n+Q4Oie1HQV53A8stj+eeEJ+tv8N4rclnqbC/DYSwkhxpuAil0jqzIAjPXHha3WnI\nQgz5Z7OJDp4/BAl27hky3KL1q//F6s+rJlPEIoSZx92u+ZhXth97pu2XIAbYCG6A\nuAn7w2m0SuZDyjWL4tgkNgMK4/bWP5Sm4dM8ylT8EbjIgo9FQ8gdUEWcZ0x87Hut\nyjTXgfWCD33rYSCLobS1sukVNZwyP/38e/2KbEO3hgld+/9zrxQ/wKcx3Me9Ipgt\nO4w47QYjAgMBAAECggEAAZ21LhW/Ex6t3xAxkC4xpTnzr0+MdzDNkGrSxLP/eiXe\nqA/yGAAHQ7ihH6U8RTS1GjQEqbvHHG1yWbCDXSEWkBlInmBC+E0PtkTCjORfXNkz\n9AvFk23KSSHygF1Uf/ueJiFvKp5bqbqoBxueb/S/2X44hm5DbMKti00wB1YjhWLO\n8i4sprTipDqkw28NDZ4h5ZJXdOz6DDmDHgfnKx83Fbpobt2xTnXGE6SyMrvlKJpe\nVsrBKTf4blAFL/dF/2oJJdtk+tJK4rykWRjClFuq417WmqcX69Xkx0yvBS/sEMk8\ncjnMR9Z/4uXbBsluyyFbdbFE9rsWPj2Sj3/Hn0Wt6QKBgQDv/QlXD5fO7XPJsDTZ\nKyLtZfh9TlVDVcfW/zrbTgD7TOJdSdTbLVDlDQFTOQqUKhwp3Sk3mnC4kjiDmFbo\nNQHMExjaVFHxz6b7blNQ8SfStK2cZod+uK0JQItGzGm4I1hhgI6YIdx7qqFP6JvH\nUw5MikQgrOhrH7igG652ur/dvwKBgQDSswVjB0OAVkEUb4gSNv1q8fN2RJMbjALW\n76vHu2wDMwmLVAm0b5+61z4ewtAsrO/hyIfWLizmR9SsE2Zk8eCCujniWJFvkwwS\nqIsxSH1xp/yU5SZSB/Gbg7wPAouy1LRqOn9wqKSJy1JhHO1DOLbXoai1f622yf+x\nFnMNu8/4nQKBgBqtQP2JgTGCWa2gxa8iSWakQCQFshqjDWzLwEoieJ92o28FRwD6\nH5TmhjAvFgr0R18r82n34/HQZzHRnE+BnOqHcOrMFrPPhltKnz5PIEMezHGnQAaJ\nFssBfrnm/RV38FoeRTuKAA1LIVVVoQNeKye88ufC8K7/vrElgpY2Gh/XAoGAc1Sc\nsT0LnNcZ3nbCU74X7w8rReR5ZY25DC+6pqSXlhS8t7Azc7naA+rHzQyz6JBs6fjb\nKciyuQY+ikZAOScQzl3jS1tRmHI0HI53Sm20hJ8AKfxYgnRosshkCw9IqoW1j6Qf\nl+onzmkl2ZR85tvHcbbCYz7VNoXRWPzB05WnXB0CgYAYgBJmYIMCvaBGeIYJBTr3\nVe3EmWmB5ATDSmNQ4PBsiPB9fKVC/yusrk5kcXpRWS4dgLLnj+PSCZmeUaJfhnTX\neuYaaPzqH9jnBpadCNb7l4Abn91soorfNCqFdX34OLpTShXCmn5VfPhP63Z1kgGl\ntSSEfECvVX7+Mkm7qvwjCg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kkap-test-4-leak-sa@kkap-scc-demo.iam.gserviceaccount.com",
+  "client_id": "109289668811259572132",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kkap-test-4-leak-sa%40kkap-scc-demo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
